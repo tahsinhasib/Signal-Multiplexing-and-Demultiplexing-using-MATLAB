@@ -18,6 +18,10 @@ The x1, x2, x3 bit streams were converted into analog signals using ASK. The fig
 
 <img src="output/Bit Stream 3.jpg">
 
+## ASK of the digital bit streams in Frequency domain
+
+<img src="/output/ASK Sinnal Frequency Domain.jpg">
+
 ## Composite signal
 
 Analog ASK signals were added together for creating a composite signal. The figure shows the composite signal in time and frequency domain.
